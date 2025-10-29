@@ -1,1 +1,7 @@
-requirem
+fastapi
+uvicorn
+motor
+pydantic
+python-jose
+jinja2
+
