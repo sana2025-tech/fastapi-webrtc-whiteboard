@@ -5,3 +5,4 @@ pydantic
 python-jose
 jinja2
 
+aiortc
